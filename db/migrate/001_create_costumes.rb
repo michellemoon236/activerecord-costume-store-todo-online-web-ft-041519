@@ -8,6 +8,6 @@
 # In this change method, create columns with the correct names and 
 # value types according to the spec
 
-Class CreateCostumes
+class CreateCostumes
 
 end
